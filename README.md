@@ -10,7 +10,7 @@ My goal is to build versatile engineering skills and explore complex application
 💬 **Now**
 
 * Pursuing Master's degree in IT Project Management at HESIAS
-* Deepening concepts in **Java** (OOP, Architecture) and **JavaScript**
+* Deepening concepts in **Java** and **JavaScript**
 * Focusing on code structure, scalability, and clean code practices
 * maintaining open-source tools and FrameLeaf projects
 
