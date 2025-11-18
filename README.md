@@ -1,21 +1,22 @@
-<a href="https://frameleaf.fr/">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9nbDducXZ6YnZ4Y3F6ZXR2Znh6Y3F6ZXR2Znh6Y3F6ZXR2Znh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpWdZ67N8H7y76HwF6/giphy.gif" width="180px" align="right" alt="My Avatar"/>
-</a>
+<div align="right">
+  <img src="https://media.giphy.com/media/QssGEpDKGXSXVr1V37/giphy.gif" width="160px" alt="Chibi coding"/>
+</div>
 
 Hi, I'm **KiyOni**! 👋
 I'm a French CS student at **HESIAS** (Master's cycle 1 - IT Project Manager).
-I do a lot of work about **web dev** and **event technologies**. I also run my own micro-agency, **[FrameLeaf](https://frameleaf.fr/)**.
+I have a strong interest in **web dev**, **event technologies**, and automation. I also run a small side-venture, **[FrameLeaf](https://frameleaf.fr/)**.
 
 💬 **Now:**
 
-* Running my dev business and web projects (FrameLeaf)
-* **Learning Focus:** Deepening my skills in **JavaScript** & **Java** ☕
+* 🎓 **Academic Focus:** Currently tackling advanced IT Project Management methodologies and architecture at HESIAS.
+* ☕ **Java Deep Dive:** Strengthening my understanding of Object-Oriented Programming and building robust back-end structures.
+* ⚡ **JavaScript Mastery:** Exploring advanced concepts and frameworks to create more responsive and interactive user interfaces.
+* 🛠️ **Side Projects:** Experimenting with event-tech tools and maintaining my existing open-source projects.
 
 💤 **Previously:**
 
 * Automated video highlighter using AI & Ffmpeg ([auto-video-editor](https://github.com/TON_USER/auto-video-editor))
 * Failover scene switcher for OBS streaming setups ([obs-flow-control](https://github.com/TON_USER/obs-flow-control))
-* Discord Bot with a full web dashboard & TailwindCSS ([hydros-bot](https://github.com/TON_USER/hydros-bot))
 * Minecraft plugin for custom achievements & rewards in Java ([advancements-gain](https://github.com/TON_USER/advancements-gain))
 * 2D Top-down shooter game made with Pygame ([remnaint](https://github.com/TON_USER/remnaint))
 * Web app to help choose daily clothes based on weather ([weather-wear](https://github.com/TON_USER/weather-wear))
@@ -37,4 +38,4 @@ I do a lot of work about **web dev** and **event technologies**. I also run my o
 
 > [!NOTE]
 > **Contact Me:**
-> You can reach me on Discord (`kiyonichan`), via email at `sacha.pastor@protonmail.com` or check my agency website **[frameleaf.fr](https://frameleaf.fr/)**.
+> You can reach me on Discord (`kiyonichan`), via email at `sacha.pastor@protonmail.com` or check my website **[frameleaf.fr](https://frameleaf.fr/)**.
