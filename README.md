@@ -1,4 +1,4 @@
-<img src="img_life_06.png" width="30%" align="right">
+<img src="pino-fantasylife.png" width="30%" align="right">
 
 Hi, I'm **KiyOni**! 👋
 I'm a French CS student at **HESIAS** (Master 1 - IT Project Manager).
