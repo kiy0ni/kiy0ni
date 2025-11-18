@@ -1,4 +1,4 @@
-<img src="fantasy-life-illustration-concept-art-animal-crossing-new-leaf-video-games-fantasy-title-box-8cd04d684623f6fe8ab655e493cc096e.png" width="30%" align="right">
+<img src="img_life_05.png" width="30%" align="right">
 
 Hi, I'm **KiyOni**! 👋
 I'm a French CS student at **HESIAS** (Master 1 - IT Project Manager).
