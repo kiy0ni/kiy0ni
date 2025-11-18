@@ -6,14 +6,14 @@ I run a micro-agency, **[FrameLeaf](https://frameleaf.fr/)**, alongside my studi
 My goal is to build versatile engineering skills and explore complex application fields, with a growing interest in aerospace technologies and critical systems.
 I'm also love this games : **[Fantasy Life](https://www.nintendo.fr/Jeux/Nintendo-3DS/Fantasy-Life-899654.html)** and **[Osu!](https://osu.ppy.sh/users/35913619)**.
 
-💬 **Now**
+🧱 **Now**
 
 * Pursuing Master's degree in IT Project Management at HESIAS
 * Deepening concepts in **Java** and **JavaScript**
 * Focusing on code structure, scalability, and clean code practices
 * maintaining open-source tools and FrameLeaf projects
 
-💤 **Previously**
+🍃 **Previously**
 
 * Automated video highlighter using AI & Ffmpeg ([auto-video-editor](https://github.com/kiy0ni/auto-video-editor))
 * Failover scene switcher for OBS streaming setups ([obs-flow-control](https://github.com/kiy0ni/obs-flow-control))
