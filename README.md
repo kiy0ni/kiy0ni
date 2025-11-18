@@ -1,10 +1,10 @@
-<img src="kaine.png" width="30%" align="right">
+<img src="fantasy-life-illustration-concept-art-animal-crossing-new-leaf-video-games-fantasy-title-box-8cd04d684623f6fe8ab655e493cc096e.png" width="30%" align="right">
 
 Hi, I'm **KiyOni**! 👋
 I'm a French CS student at **HESIAS** (Master 1 - IT Project Manager).
 I run a micro-agency, **[FrameLeaf](https://frameleaf.fr/)**, alongside my studies.
 My goal is to build versatile engineering skills and explore complex application fields, with a growing interest in aerospace technologies and critical systems.
-I'm also an avid player of **[Fantasy Life](https://www.nintendo.fr/Jeux/Nintendo-3DS/Fantasy-Life-899654.html)** and **[osu!](https://osu.ppy.sh/home)**.
+I'm also love this games : **[Fantasy Life](https://www.nintendo.fr/Jeux/Nintendo-3DS/Fantasy-Life-899654.html)** and **[Osu!](https://osu.ppy.sh/users/35913619)**.
 
 💬 **Now**
 
