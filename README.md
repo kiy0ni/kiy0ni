@@ -1,51 +1,40 @@
-Hi, I'm **KiyOni**! I'm a French amateur developer with a creative soul. 🎨
-I love blending code with art—whether it's **music** (guitar), **video**, or **design**. My goal is to give a tangible dimension to my ideas through development.
+<a href="https://frameleaf.fr/">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9nbDducXZ6YnZ4Y3F6ZXR2Znh6Y3F6ZXR2Znh6Y3F6ZXR2Znh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpWdZ67N8H7y76HwF6/giphy.gif" width="180px" align="right" alt="My Avatar"/>
+</a>
+
+Hi, I'm **KiyOni**! 👋
+I'm a French CS student at **HESIAS** (Master's cycle 1 - IT Project Manager).
+I do a lot of work about **web dev** and **event technologies**. I also run my own micro-agency, **[FrameLeaf](https://frameleaf.fr/)**.
 
 💬 **Now:**
 
-* Focusing on mastering **CSS & Responsive Design** to create perfectly polished interfaces. 💅
-* Learning to structure code for better versatility and scalability. (Clean Code)
-* Diversifying my skills in new programming languages.
-* Working on **[Frameleaf](https://frameleaf.fr/)** and various web projects.
+* Running my dev business and web projects (FrameLeaf)
+* **Learning Focus:** Deepening my skills in **JavaScript** & **Java** ☕
 
 💤 **Previously:**
 
-* Created various **Discord Bots** for community management.
-* Developed **Minecraft Plugins** (Java/Lua) & managed **GMOD RP Servers**.
-* Built custom websites using **pure Code** (HTML/CSS/JS) and **NoCode** (WordPress).
-* Experimented with game dev: basic games and dashboards.
-* School projects with a focus on **NSI** (Computer Science specialty).
+* Automated video highlighter using AI & Ffmpeg ([auto-video-editor](https://github.com/TON_USER/auto-video-editor))
+* Failover scene switcher for OBS streaming setups ([obs-flow-control](https://github.com/TON_USER/obs-flow-control))
+* Discord Bot with a full web dashboard & TailwindCSS ([hydros-bot](https://github.com/TON_USER/hydros-bot))
+* Minecraft plugin for custom achievements & rewards in Java ([advancements-gain](https://github.com/TON_USER/advancements-gain))
+* 2D Top-down shooter game made with Pygame ([remnaint](https://github.com/TON_USER/remnaint))
+* Web app to help choose daily clothes based on weather ([weather-wear](https://github.com/TON_USER/weather-wear))
+* E-learning platform for music theory & solfege ([learn-solfege](https://github.com/TON_USER/learn-solfege))
+* Backend API for school app refactoring ([edu-flow](https://github.com/TON_USER/edu-flow))
 
-> [!IMPORTANT]
+---
+
+### 🛠️ Tech Stack
+
+**💻 Core**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+**🚀 Learning & expanding**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+
+**🧰 Tools & Frameworks**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+> [!NOTE]
 > **Contact Me:**
-> You can reach me for anything via:
-> * **Discord:** `kiyonichan`
-> * **Email:** sacha.pastor@protonmail.com
-> * **Website:** [frameleaf.fr](https://frameleaf.fr/)
-
----
-
-### 🛠️ What I use
-
-🌐 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-*(Dabbling in: C, C#, PHP, Lua)*
-
-🧩 **Frameworks & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-🎨 **Creative Suite**
-
-![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-%23DA1F26.svg?style=flat&logo=adobe&logoColor=white) (Video, Design, Drawing)
-
----
-
-### 📊 Some stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="KiyOni's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
+> You can reach me on Discord (`kiyonichan`), via email at `sacha.pastor@protonmail.com` or check my agency website **[frameleaf.fr](https://frameleaf.fr/)**.
