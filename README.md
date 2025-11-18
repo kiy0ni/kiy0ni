@@ -16,17 +16,17 @@ My goal is to build versatile engineering skills and explore complex application
 
 💤 **Previously**
 
-* Automated video highlighter using AI & Ffmpeg ([auto-video-editor](https://github.com/TON_USER/auto-video-editor))
-* Failover scene switcher for OBS streaming setups ([obs-flow-control](https://github.com/TON_USER/obs-flow-control))
-* Minecraft plugin for custom achievements & rewards in Java ([advancements-gain](https://github.com/TON_USER/advancements-gain))
-* 2D Top-down shooter game made with Pygame ([remnaint](https://github.com/TON_USER/remnaint))
-* Web app for daily outfit suggestions based on weather ([weather-wear](https://github.com/TON_USER/weather-wear))
-* E-learning platform for music theory ([learn-solfege](https://github.com/TON_USER/learn-solfege))
-* Backend API for school app refactoring ([edu-flow](https://github.com/TON_USER/edu-flow))
+* Automated video highlighter using AI & Ffmpeg ([auto-video-editor](https://github.com/kiy0ni/auto-video-editor))
+* Failover scene switcher for OBS streaming setups ([obs-flow-control](https://github.com/kiy0ni/obs-flow-control))
+* Minecraft plugin for custom achievements & rewards in Java ([advancements-gain](https://github.com/kiy0ni/advancements-gain))
+* 2D Top-down shooter game made with Pygame ([remnaint](https://github.com/kiy0ni/remnaint))
+* Web app for daily outfit suggestions based on weather ([weather-wear](https://github.com/kiy0ni/weather-wear))
+* E-learning platform for music theory ([learn-solfege](https://github.com/kiy0ni/learn-solfege))
+* Backend API for school app refactoring ([edu-flow](https://github.com/kiy0ni/edu-flow))
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
