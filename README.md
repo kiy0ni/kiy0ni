@@ -1,6 +1,6 @@
 <img src="pino-fantasylife.png" width="30%" align="right">
 
-### Hi, I'm **KiyOni**! 👋
+Hi, I'm **KiyOni**! 👋
 I'm a French CS student at **HESIAS** (Master 1 - IT Project Manager).
 I run a micro-agency, **[FrameLeaf](https://frameleaf.fr/)**, alongside my studies.
 My goal is to build versatile engineering skills and explore complex application fields, with a growing interest in aerospace technologies and critical systems.
