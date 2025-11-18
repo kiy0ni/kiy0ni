@@ -1,12 +1,10 @@
-<div align="right">
-  <img src="https://media.giphy.com/media/QssGEpDKGXSXVr1V37/giphy.gif" width="150px" alt="Chibi coding"/>
-</div>
+<img src="kaine.png" width="30%" align="right">
 
 Hi, I'm **KiyOni**! 👋
 I'm a French CS student at **HESIAS** (Master 1 - IT Project Manager).
 I run a micro-agency, **[FrameLeaf](https://frameleaf.fr/)**, alongside my studies.
-My goal is to build versatile engineering skills and explore complex application fields, 
-with a growing interest in aerospace technologies and critical systems.
+My goal is to build versatile engineering skills and explore complex application fields, with a growing interest in aerospace technologies and critical systems.
+I'm also an avid player of **[Fantasy Life](https://www.nintendo.fr/Jeux/Nintendo-3DS/Fantasy-Life-899654.html)** and **[osu!](https://osu.ppy.sh/home)**.
 
 💬 **Now**
 
