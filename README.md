@@ -1,7 +1,7 @@
 <img src="pino-fantasylife.png" width="30%" align="right">
 
 Hi, I'm **KiyOni**! 👋
-I'm a French CS student at **HESIAS** (Master 1 - IT Project Manager).
+I'm a French CS student (Master 1 - IT Project Manager).
 I run a micro-agency, **[FrameLeaf](https://frameleaf.fr/)**, alongside my studies.
 My goal is to build versatile engineering skills and explore complex application fields, with a growing interest in aerospace technologies and critical systems.
 I'm also in love with this games : **[Fantasy Life](https://www.nintendo.fr/Jeux/Nintendo-3DS/Fantasy-Life-899654.html)** and **[Osu!](https://osu.ppy.sh/users/35913619)**.
@@ -38,4 +38,4 @@ I'm also in love with this games : **[Fantasy Life](https://www.nintendo.fr/Jeux
 
 > [!NOTE]
 > **Contact:**
-> Discord: `kiyonichan` • Email: `sacha.pastor@protonmail.com` • Website: **[frameleaf.fr](https://frameleaf.fr/)**
+> Discord: `kiyonichan` • Website: **[frameleaf.fr](https://frameleaf.fr/)**
