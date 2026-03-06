@@ -11,7 +11,7 @@ I'm also in love with this games : **[Fantasy Life](https://www.nintendo.fr/Jeux
 * Pursuing Master's degree in IT Project Management at HESIAS
 * Deepening concepts in **Java** and **JavaScript**
 * Focusing on code structure, scalability, and clean code practices
-* maintaining open-source tools and FrameLeaf projects
+* maintaining open-source tools and 3LEvent evolution
 
 🍃 **Previously**
 
