@@ -38,4 +38,4 @@ I'm also in love with this games : **[Fantasy Life](https://www.nintendo.fr/Jeux
 
 > [!NOTE]
 > **Contact:**
-> Discord: `kiyonichan` • Website: **[frameleaf.fr](https://frameleaf.fr/)**
+> Discord: `kiyonichan`
